@@ -1,0 +1,2 @@
+# genCode
+somethingNotIntresting
